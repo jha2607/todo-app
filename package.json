@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "nodemon": "^2.0.18"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
